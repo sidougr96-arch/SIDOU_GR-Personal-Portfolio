@@ -1,0 +1,6 @@
+{
+  "name": "SIDOU_GR — Portfolio",
+  "description": "Personal portfolio for SIDOU_GR. Licence 3ème Année (L3) in Mathématiques et Informatique, Spécialité Informatique, Option Systèmes informatiques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
